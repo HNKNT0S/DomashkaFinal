@@ -1,0 +1,4 @@
+<div>
+        <label for="texti">Напишите что-нибудь:</label>
+<textarea id="texti"  rows="5" cols="20"></textarea>
+    </div>
